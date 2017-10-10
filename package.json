@@ -1,0 +1,9 @@
+{
+  "name": "late-your-work",
+  "version": "1.0.0",
+  "description": "send message your boss you're late",
+  "main": "index.js",
+  "repository": "https://github.com/wrariza/late-your-work.git",
+  "author": "Ricardo Ariza <skchard09@gmail.com>",
+  "license": "MIT"
+}
